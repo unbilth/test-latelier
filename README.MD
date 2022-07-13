@@ -13,7 +13,7 @@
 
 1. npm start
 
-### Start the dev environment
+### Routes
 
 1. localhost:3000/api/players/stats
 2. localhost:3000/api/players
