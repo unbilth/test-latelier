@@ -1,0 +1,18 @@
+{
+  "name": "test-technique-atelier",
+  "version": "1.0.0",
+  "description": "A technical test",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sami Agoudan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "i": "^0.3.7",
+    "nodemon": "^2.0.19"
+  }
+}
